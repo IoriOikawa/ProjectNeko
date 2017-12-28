@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "1e56bc0da0a422831459a6a014541c49",
+    "packages": [
+        {
+            "name": "phplucidframe/console-table",
+            "version": "v1.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phplucidframe/console-table.git",
+                "reference": "2b2f29e05b931ea093b78f23e25dfb3174cf6fef"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://files.phpcomposer.com/files/phplucidframe/console-table/2b2f29e05b931ea093b78f23e25dfb3174cf6fef.zip",
+                "reference": "2b2f29e05b931ea093b78f23e25dfb3174cf6fef",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "LucidFrame\\": "src/",
+                    "LucidFrameTest\\": "tests/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sithu K.",
+                    "email": "cithukyaw@gmail.com"
+                }
+            ],
+            "description": "Console Table",
+            "time": "2017-07-09T14:15:56+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

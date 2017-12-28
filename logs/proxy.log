@@ -1,0 +1,181 @@
+[2017-12-28 09:05:36 #1138.0]	NOTICE	Server is shutdown now.
+[2017-12-28 09:05:36 *1140.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:05:36 *1141.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:05:36 *1144.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:05:36 *1143.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:05:36 *1142.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:05:36 *1145.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:02 #1241.0]	NOTICE	Server is shutdown now.
+[2017-12-28 09:07:02 *1244.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:02 *1243.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:02 *1246.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:02 *1245.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:02 *1248.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:02 *1247.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:02 *1249.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:02 *1250.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:02 *1252.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:02 *1251.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:23 #1279.0]	NOTICE	Server is shutdown now.
+[2017-12-28 09:07:23 *1282.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:23 *1283.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:23 *1281.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:23 *1284.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:23 *1285.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:07:23 *1286.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:08:56 #1311.0]	NOTICE	Server is shutdown now.
+[2017-12-28 09:08:56 *1314.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:08:56 *1313.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:08:56 *1316.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:08:56 *1315.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:08:56 *1317.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:08:56 *1319.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:08:56 *1318.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:08:56 *1320.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:11:15 #1388.0]	NOTICE	Server is shutdown now.
+[2017-12-28 09:11:15 *1390.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:11:15 *1393.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:11:15 *1394.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:11:15 *1392.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:11:15 *1391.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:12:43 #1431.0]	NOTICE	Server is shutdown now.
+[2017-12-28 09:12:43 *1433.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 249.
+[2017-12-28 09:12:43 *1435.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 249.
+[2017-12-28 09:12:43 *1434.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 249.
+[2017-12-28 09:12:43 *1436.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 249.
+[2017-12-28 09:12:43 *1437.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 249.
+[2017-12-28 09:12:43 *1448.15]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 249.
+[2017-12-28 09:13:26 #1516.0]	NOTICE	Server is shutdown now.
+[2017-12-28 09:13:26 *1518.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:13:26 *1519.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:13:26 *1520.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:13:26 *1521.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Swoole\Server::__construct(): eventLoop has been created. Unable to create swoole_server. in /Users/satori/web/ProjectNeko/server.php on line 260.
+[2017-12-28 09:22:21 *1887.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#1
+[2017-12-28 09:22:24 *1887.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#3
+[2017-12-28 09:22:56 *1924.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#1
+[2017-12-28 09:24:23 *2018.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#1
+[2017-12-28 09:24:26 *2018.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#3
+[2017-12-28 09:27:11 *2081.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#1
+[2017-12-28 09:27:14 *2081.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#3
+[2017-12-28 09:27:16 *2066.0]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#4
+[2017-12-28 09:34:54 *2169.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#1
+[2017-12-28 09:34:57 *2169.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#3
+[2017-12-28 09:36:27 *2230.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#1
+[2017-12-28 09:36:30 *2230.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#3
+[2017-12-28 09:39:09 *2378.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#1
+[2017-12-28 09:39:12 *2378.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#3
+[2017-12-28 09:43:50 *2519.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Using $this when not in object context in /Users/satori/web/ProjectNeko/ServerSSL.php:4
+Stack trace:
+#0 /Users/satori/web/ProjectNeko/server.php(214): ServerSSL::Encrypt('GET / HTTP/1.1\r...', '-----BEGIN PRIV...')
+#1 {main}
+  thrown in /Users/satori/web/ProjectNeko/ServerSSL.php on line 4.
+[2017-12-28 09:43:51 $2510.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2017-12-28 09:44:28 *2581.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to undefined function split() in /Users/satori/web/ProjectNeko/ServerSSL.php:18
+Stack trace:
+#0 /Users/satori/web/ProjectNeko/ServerSSL.php(4): ServerSSL::base64EncryptForLangChars('GET / HTTP/1.1\r...')
+#1 /Users/satori/web/ProjectNeko/server.php(214): ServerSSL::Encrypt('GET / HTTP/1.1\r...', '-----BEGIN PRIV...')
+#2 {main}
+  thrown in /Users/satori/web/ProjectNeko/ServerSSL.php on line 18.
+[2017-12-28 09:44:28 $2572.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2017-12-28 09:45:14 *2657.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Using $this when not in object context in /Users/satori/web/ProjectNeko/ServerSSL.php:21
+Stack trace:
+#0 /Users/satori/web/ProjectNeko/ServerSSL.php(4): ServerSSL::base64EncryptForLangChars('GET / HTTP/1.1\r...')
+#1 /Users/satori/web/ProjectNeko/server.php(214): ServerSSL::Encrypt('GET / HTTP/1.1\r...', '-----BEGIN PRIV...')
+#2 {main}
+  thrown in /Users/satori/web/ProjectNeko/ServerSSL.php on line 21.
+[2017-12-28 09:45:14 $2648.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2017-12-28 09:49:46 *2851.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#1
+[2017-12-28 09:49:49 *2851.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#3
+[2017-12-28 09:50:48 *2953.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#1
+[2017-12-28 09:50:51 *2953.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#3
+[2017-12-28 09:53:25 *3095.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#1
+[2017-12-28 10:06:53 *3615.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[78 bytes] from socket#1
+[2017-12-28 10:14:49 *3889.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[78 bytes] from socket#1
+[2017-12-28 10:30:30 *4205.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[78 bytes] from socket#1
+[2017-12-28 10:42:27 *4817.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[78 bytes] from socket#1
+[2017-12-28 10:52:19 *5086.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[78 bytes] from socket#1
+[2017-12-28 10:55:15 *5218.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#3
+[2017-12-28 10:55:18 *5218.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[527 bytes] from socket#5
+[2017-12-28 11:02:18 *5514.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[78 bytes] from socket#1
+[2017-12-28 11:06:46 *5799.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[528 bytes] from socket#1
+[2017-12-28 11:06:51 *5799.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[513 bytes] from socket#5
+[2017-12-28 11:07:07 *5787.3]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[455 bytes] from socket#10
+[2017-12-28 11:07:07 *5785.1]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[568 bytes] from socket#8
+[2017-12-28 11:07:07 *5786.2]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[554 bytes] from socket#9
+[2017-12-28 11:07:10 *5785.1]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[568 bytes] from socket#13
+[2017-12-28 11:07:10 *5786.2]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[455 bytes] from socket#14
+[2017-12-28 11:07:14 *5799.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[589 bytes] from socket#15
+[2017-12-28 11:13:10 *5904.11]	ERROR	swFactoryProcess_end (ERROR 1003): The connection[12] is closing.
+[2017-12-28 11:19:47 *6209.10]	ERROR	swFactoryProcess_end (ERROR 1003): The connection[2] is closing.
+[2017-12-28 11:27:47 *6767.3]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#3
+[2017-12-28 11:27:48 *6768.4]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#4
+[2017-12-28 11:27:50 *6767.3]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#5
+[2017-12-28 11:27:53 *6767.3]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#6
+[2017-12-28 11:27:56 *6767.3]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#8
+[2017-12-28 11:28:00 *6767.3]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#9
+[2017-12-28 11:28:05 *6767.3]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#10
+[2017-12-28 11:28:12 *6767.3]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#12
+[2017-12-28 11:28:23 *6770.6]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#14
+[2017-12-28 11:28:42 *6772.8]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#17
+[2017-12-28 11:29:22 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#1
+[2017-12-28 11:29:25 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#2
+[2017-12-28 11:29:28 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#3
+[2017-12-28 11:29:32 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#4
+[2017-12-28 11:29:37 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[3 bytes] from socket#5
+[2017-12-28 11:29:43 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#6
+[2017-12-28 11:29:43 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#6
+[2017-12-28 11:29:46 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#7
+[2017-12-28 11:29:46 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#7
+[2017-12-28 11:29:47 *6816.0]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#8
+[2017-12-28 11:29:47 *6816.0]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#8
+[2017-12-28 11:29:50 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#9
+[2017-12-28 11:29:50 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#9
+[2017-12-28 11:29:53 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#10
+[2017-12-28 11:29:53 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#10
+[2017-12-28 11:29:55 *6816.0]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#11
+[2017-12-28 11:29:55 *6816.0]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#11
+[2017-12-28 11:29:58 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[285 bytes] from socket#12
+[2017-12-28 11:30:01 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#13
+[2017-12-28 11:30:01 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#13
+[2017-12-28 11:30:03 *6816.0]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#14
+[2017-12-28 11:30:03 *6816.0]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#14
+[2017-12-28 11:30:03 *6817.1]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#15
+[2017-12-28 11:30:03 *6817.1]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#15
+[2017-12-28 11:30:06 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#16
+[2017-12-28 11:30:06 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#16
+[2017-12-28 11:30:09 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[285 bytes] from socket#17
+[2017-12-28 11:30:11 *6816.0]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#18
+[2017-12-28 11:30:11 *6816.0]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#18
+[2017-12-28 11:30:14 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[285 bytes] from socket#19
+[2017-12-28 11:30:17 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#20
+[2017-12-28 11:30:17 *6831.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#20
+[2017-12-28 11:30:19 *6816.0]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[245 bytes] from socket#21
+[2017-12-28 11:30:19 *6816.0]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[40 bytes] from socket#21
+[2017-12-28 11:36:01 *7067.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#1
+[2017-12-28 11:36:46 *7144.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#3
+[2017-12-28 11:36:49 *7144.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#4
+[2017-12-28 11:36:56 *7144.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#7
+[2017-12-28 11:36:59 *7144.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#8
+[2017-12-28 11:38:00 *7187.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#1
+[2017-12-28 11:38:05 *7187.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#4
+[2017-12-28 11:38:08 *7187.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#6
+[2017-12-28 11:38:15 *7187.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#9
+[2017-12-28 11:38:18 *7187.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#11
+[2017-12-28 11:38:21 *7187.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#12
+[2017-12-28 11:40:08 *7317.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#1
+[2017-12-28 11:40:11 *7317.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#3
+[2017-12-28 11:41:44 *7317.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#14
+[2017-12-28 11:42:17 *7317.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#15
+[2017-12-28 11:43:01 *7317.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#36
+[2017-12-28 11:45:25 *7516.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#1
+[2017-12-28 11:46:02 *7564.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#1
+[2017-12-28 11:46:05 *7564.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#3
+[2017-12-28 11:46:19 *7564.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#8
+[2017-12-28 11:49:27 *7779.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#1
+[2017-12-28 11:49:30 *7779.15]	ERROR	swWorker_discard_data (ERROR 1007): [1]received the wrong data[532 bytes] from socket#3
+[2017-12-28 11:50:51 *7879.15]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught DivisionByZeroError: Modulo by zero in /Users/satori/web/ProjectNeko/RC4.php:36
+Stack trace:
+#0 /Users/satori/web/ProjectNeko/server.php(223): rc4(NULL, 'GET /w.php HTTP...')
+#1 {main}
+  thrown in /Users/satori/web/ProjectNeko/RC4.php on line 36.
+[2017-12-28 11:50:51 $7863.0]	WARNING	swManager_check_exit_status: worker#15 abnormal exit, status=255, signal=0
